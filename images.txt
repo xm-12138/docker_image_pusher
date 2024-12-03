@@ -1,4 +1,4 @@
-homeassistant/raspberrypi4-home-assistant:stable
+homeassistant/aarch64-homeassistant:latest
 homeassistant/home-assistant:stable
 
 mysql
