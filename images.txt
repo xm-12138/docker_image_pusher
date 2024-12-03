@@ -1,4 +1,6 @@
+homeassistant/raspberrypi4-home-assistant:stable
 homeassistant/home-assistant:stable
+
 mysql
 
 nginx
