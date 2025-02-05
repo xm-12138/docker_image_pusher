@@ -1,4 +1,6 @@
-homeassistant/aarch64-homeassistant:latest
+
+homeassistant/aarch64-homeassistant:latesthomeassistant / aarch64-homeassistant:最新
+
 homeassistant/home-assistant:stable
 
 mysql
