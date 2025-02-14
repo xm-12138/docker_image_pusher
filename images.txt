@@ -1,6 +1,6 @@
 homeassistant/aarch64-homeassistant:latest
 
-homeassistant/home-assistant:stable
+homeassistant/home-assistant:latest
 
 mysql
 
