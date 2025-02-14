@@ -1,4 +1,4 @@
-home-assistant/aarch64-homeassistant:latest
+ghcr.io/home-assistant/aarch64-homeassistant:2025.3.0.dev202502140228
 
 homeassistant/home-assistant:latest
 
