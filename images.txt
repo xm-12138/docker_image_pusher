@@ -1,4 +1,4 @@
-homeassistant/aarch64-homeassistant:latest
+homeassistant/aarch64-homeassistant
 
 homeassistant/home-assistant:latest
 
