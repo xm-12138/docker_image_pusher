@@ -12,7 +12,6 @@
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 6053537/portainer-ce:latest
 
-#--platform=linux/arm64 portainer/portainer-ce:latest
-
---platform=linux/arm64 6053537/portainer-ce:latest
+--platform=linux/arm64 henrygd/beszel:latest
