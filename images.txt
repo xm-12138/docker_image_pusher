@@ -1,14 +1,16 @@
-ghcr.io/home-assistant/aarch64-homeassistant:2025.3.0.dev202502140228
+# ghcr.io/home-assistant/aarch64-homeassistant:2025.3.0.dev202502140228
 
-homeassistant/home-assistant:latest
+# homeassistant/home-assistant:latest
 
-mysql
+# mysql
 
-nginx
+# nginx
 
-portainer/portainer-ce
+# portainer/portainer-ce
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# --platform=linux/arm64 xiaoyaliu/alist
+
+--platform=linux/arm64 portainer/portainer-ce:latest
