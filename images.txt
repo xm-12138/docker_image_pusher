@@ -14,4 +14,6 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 6053537/portainer-ce:latest
 
---platform=linux/arm64 henrygd/beszel:latest
+#--platform=linux/arm64 henrygd/beszel:latest
+
+--platform=linux/arm64 chishin/wol-go-web
