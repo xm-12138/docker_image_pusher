@@ -12,8 +12,11 @@
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
+#docker管理工具中文版
 #--platform=linux/arm64 6053537/portainer-ce:latest
 
 #--platform=linux/arm64 henrygd/beszel:latest
 
---platform=linux/arm64 chishin/wol-go-web
+#--platform=linux/arm64 chishin/wol-go-web
+
+--platform=linux/arm64 mayswind/ezbookkeeping
